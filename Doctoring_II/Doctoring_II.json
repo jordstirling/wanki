@@ -1,0 +1,1260 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce7d38e8-50b4-11e9-be52-784f4362f259",
+            "deck_config_uuid": "f160b4e8-49c0-11e9-abe2-acde48001122",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "paste-0d2339306532bcb6531c6be4a81d8c0cc697a54b.jpg"
+            ],
+            "name": "01 - Intro to public health",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Population health}} is at the intersection of {{c2::public health}} and {{c3::health care}}.<div><br></div><div>{{c2::Public health}} has a goal to {{c4::reduce costs}}</div><div><br></div><div>{{c3::Health care}} has a goal to improve {{c4::health outcomes}}</div>",
+                        "<img src=\"paste-0d2339306532bcb6531c6be4a81d8c0cc697a54b.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "i4Jt#gRkFX",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "When patients are {{c1::non-compliant::compliant/non-complient}}, it is likely an indicator that there are social aspects that are effecting them",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "hKDqf(n``s",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Definition of Health<div><br></div><div>{{c1::The state of complete physical, mental and social well-being and not merely the absence of disease or infirmity}}<br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Pm-WbGT@#I",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Definition of Public Health<div><br></div><div>The activities that ensure {{c1::conditions in which people can be healthy}}.&nbsp;</div><div><br></div><div>These activities include community wide efforts to {{c2::identify}}, {{c2::prevent}}, and {{c2::combat}} threats to the health of the public.<br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "E15YBywp)`",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What influences public health?<div><br></div><div><b>Macro-social Forces</b></div><div>{{c1::Globalization}}</div><div>{{c2::Urbanization}}</div><div>{{c3::Population Aging}}</div><div>{{c4::Health Disparities}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "KpL3W@E[/&",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Globalization (Definition)<div><br></div><div>{{c1::Increasing interconnectedness of ideas, behaviors, resources, and human capital across the globe}}<br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "L^i62:?gwG",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Globalization</b><div><b><br></b></div><div>Challenes</div><div><div><br></div><div>Infectious disease outbreaks, fueled by {{c1::transcontinental travel}}, are no longer confined to 1 country or continent</div> <div><br></div><div>{{c2::NCD epidemics}}, like obesity, fueled by adoption of unhealthy dietary practices and increasing availability of nutritionally poor, calorie dense foods</div></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "OE]{Y48{@?",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Ubinization</b><div><b><br></b></div><div>Challenges</div><div><div>Strains on urban infrastructure and planning affects {{c2::transportation}}, {{c4::sanitation}}, {{c3::green}} space</div><div><br></div> {{c1::Migration}} patters affect family structure - very young and very old remain behind in rural areas<br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Q}/M]k2qoK",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce7ee0f0-50b4-11e9-bee3-784f4362f259",
+            "deck_config_uuid": "f160b4e8-49c0-11e9-abe2-acde48001122",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "02 - Screening",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>{{c1::Screening}} is the identification of an {{c2::unrecognized}}&nbsp;disease or risk factor </div> <div><br></div><div>Used in a population to detect a {{c3::disease}} in seemingly healthy, asymptomatic people</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "p*Timm4_}E",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>The purpose of {{c1::screening}} is to prevent {{c2::death and suffering}} from common diseases, not just to {{c3::find diseases early}}<br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "f/+_8hp7Pf",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Benefits of screening<div><br></div><div>{{c1::Identify diseases early}}</div><div>{{c2::Early intervestion and management}}</div><div>{{c3::less death and suffering}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "w4u}|kn9M|",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Risks of Screening<div><br></div><div>{{c1::Overdiagnosis}} - You find what you're looking for</div><div><br></div><div>{{c1::Misdiagnosis}} - Find the wrong thing</div><div><br></div><div>{{c2::Flase sense of security}}</div><div><br></div><div>{{c2::Increased anxiety}}</div><div><br></div><div>{{c3::Cost}}</div><div><br></div><div>Risk of additional {{c3::invasive procedures}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "ymt+9EsnTC",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "USPSTF requires evidence that the screening will be {{c1::cost effective}}, {{c2::timely}}, and {{c3::save lives}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "hnHHgs+BWe",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The USPSTF suggests genetic screen with breast cancer when there is a {{c1::family history}} of breast cancer",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "t,<:EAi%eg",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "USPSTF gives a A rating for {{c1::colon cancer}} screening because it is a good sensitive test",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "CWyHtVQP&Y",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "USPSTF suggestion for {{c1::cevical cancer}} is to screen between ages {{c2::21}}-{{c2::65}} with a {{c3::pap smear}} and then from ages {{c2::30}}+ to do a {{c3::pap smear}} with a {{c3::HPV test}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "A_O,Obf(OD",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "USPSTF suggests for screening prostate cancer is {{c1::not advised::advised/not advised}} for males over {{c2::70}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "B:sk8%]5ly",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce806e48-50b4-11e9-ba53-784f4362f259",
+            "deck_config_uuid": "f160b4e8-49c0-11e9-abe2-acde48001122",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "paste-61353607823361.jpg",
+                "paste-55392193216648.jpg",
+                "paste-54e6f66e2d803670c4eecf9a24668a52c80e8526.jpg"
+            ],
+            "name": "03 - Tobacco",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div><i>Sketchy Pharmacology: Neuro/Psych</i>&nbsp;</div><div><br /></div><div><b>Bupropion</b>&nbsp;<u>inhibits</u>&nbsp;the reuptake of {{c1::norepinephrine}} and {{c1::dopamine}}</div>",
+                        "<img src=\"paste-61353607823361.jpg\" /><div><br /></div><div>This results in an overall stimulatory effect, thus making it useful as a 2nd line treatment for depression associated with hypersomnia and low energy</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "OUM:!S~5Qm",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": [
+                        "BGedit",
+                        "EXPANSION",
+                        "NeuroPharmacology",
+                        "Uworld",
+                        "Zanki-Pharmacology::Neuro-Pharmacology-",
+                        "atypicalantidepressants",
+                        "sketchypharmacology"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div><b>Nicotine&nbsp;</b><i style=\"font-weight: bold; \">withdrawal</i>&nbsp;may be treated using nicotine replacement, {{c1::bupropion}}, or {{c2::varenicline}}&nbsp;</div>",
+                        "<i>withdrawal symptoms include irritability, anxiety, restlessness, and difficulty concentrating</i>&nbsp;<div><br></div><div><i>NDRI &amp; NDRA</i></div><div><i><br></i></div><div><i>NAChR partial agonist</i></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Es^gB$+>>5",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": [
+                        "Zanki-Step-Decks::Zanki-Psychiatry-/-Psychology",
+                        "psychiatry"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the mechanism of action of Bupropion?",
+                        "Inhibits NE and Dopamine reuptake<div><br /></div><div><img src=\"paste-55392193216648.jpg\" /></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "z{yfHR)RaU",
+                    "note_model_uuid": "f1649418-49c0-11e9-ae9f-acde48001122",
+                    "tags": [
+                        "bab::psychiatry::pharmacology::antidepressants"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the mechanism of action of Bupropion?",
+                        "Inhibits NE and Dopamine reuptake<div><br /></div><div><img src=\"paste-55392193216648.jpg\" /></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "s5@l2uxY9l",
+                    "note_model_uuid": "f1649418-49c0-11e9-ae9f-acde48001122",
+                    "tags": [
+                        "bab::psychiatry::substanceabuse::stimulants"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Tabacco}} smoking is the single most {{c2::preventable}} cause of death",
+                        "<img src=\"paste-54e6f66e2d803670c4eecf9a24668a52c80e8526.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "EiPA1(0P|;",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Smoking}} is responsible for {{c2::87::}}% of {{c3::lung::organ}} cancer deaths",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "d~=$1{4Ej:",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "90% of adult smokers start before the age of {{c1::18}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "kunR49J=/V",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c2::50}}% of teens try smoking at least once by the {{c1::12th::1st-12th?}} grade",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "w+wme(yo6i",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Rate of cancers drops by {{c1::50}}% {{c2::10}} years after quitting smoking",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "v;3yo/+K@&",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Tabacco Cessation: How to do it</b><div><b><br></b></div><div>2 Strategies: 5 A's</div><div><br></div><div>{{c1::Ask}}, {{c2::Advise}}, {{c3::assess}}, {{c4::assist}}, {{c5::arrange follow up}}</div><div><br></div><div>OR&nbsp;</div><div><br></div><div>{{c1::Ask}}, {{c2::advise}}, {{c3::refer}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "DNCj67[>cV",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The five stages of change<div><br></div><div>1. {{c1::Precontemplation}}</div><div>2. {{c1::Contemplation}}</div><div>3. {{c1::Preparation}}</div><div>4. {{c1::Action}}</div><div>5. {{c1::Maintenance}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "zRdjyXXA4A",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The five stages of change<div><br></div><div>1. {{c1::Precontemplation}}</div><div>2. {{c2::Contemplation}}</div><div>3. {{c3::Preparation}}</div><div>4. {{c4::Action}}</div><div>5. {{c5::Maintenance}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "J&;.7Piiu&",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "When assess a tabacco user's addiction ensure to look into<div><br></div><div>1. {{c1::Level of dependence}}</div><div>2. {{c2::Past Behavior}}</div><div>3. {{c3::Readiness}}</div><div>4. {{c4::Conviction}}</div><div>5. {{c5::Confidence}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "OWNtdvv6<)",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "When assess a tabacco user's addiction ensure to look into<div><br></div><div>1. {{c1::Level of dependence}}</div><div>2. {{c1::Past Behavior}}</div><div>3. {{c1::Readiness}}</div><div>4. {{c1::Conviction}}</div><div>5. {{c1::Confidence}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "g@=S5kAf/D",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>How do I <i>Motivate</i>&nbsp;my patient?</b><div><b><br></b></div><div>The 5 R's</div><div>{{c1::Relevance}}</div><div>{{c2::Risks}}</div><div>{{c3::Rewards}}</div><div>{{c4::Roadblocks}}</div><div>{{c5::Repetition}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "j8[&5tFR}C",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>How do I <i>Motivate</i>&nbsp;my patient?</b><div><b><br></b></div><div>The 5 R's</div><div>{{c1::Relevance}}</div><div>{{c1::Risks}}</div><div>{{c1::Rewards}}</div><div>{{c1::Roadblocks}}</div><div>{{c1::Repetition}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "sI%%$W/)^{",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce821a74-50b4-11e9-a577-784f4362f259",
+            "deck_config_uuid": "f160b4e8-49c0-11e9-abe2-acde48001122",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "07 - Motivational Counseling",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "4 Principles of Motivational interview<div><br></div><div>{{c1::Express Empathy}}</div><div>{{c2::Support Self-efficacy}}</div><div>{{c3::Roll with resistance}}</div><div>{{c4::Develop Discrepancy}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "L[tuE/,?$h",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "4 Principles of Motivational interview<div><br></div><div>{{c1::Express Empathy}}</div><div>{{c1::Support Self-efficacy}}</div><div>{{c1::Roll with resistance}}</div><div>{{c1::Develop Discrepancy}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "lPt0,~K;?X",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>OARS of motivational interviewing</b><div><b><br></b></div><div>{{c1::Open ended questions}}</div><div>{{c2::Affirmations}}</div><div>{{c3::Reflections}}</div><div>{{c4::Summaries}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "hSQvv5^yIl",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>OARS of motivational interviewing</b><div><b><br></b></div><div>{{c1::Open ended questions}}</div><div>{{c1::Affirmations}}</div><div>{{c1::Reflections}}</div><div>{{c1::Summaries}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "FGPzVi5[*x",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce840cc6-50b4-11e9-821a-784f4362f259",
+            "deck_config_uuid": "f160b4e8-49c0-11e9-abe2-acde48001122",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "paste-4347877464b287d74bd8cba2b9a78834842ab6ec.jpg",
+                "paste-43201cc4ce71ebec24ea96b3697dddc2a922a5c2.jpg"
+            ],
+            "name": "08 - Rasicm on Health",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Three methods of prevention<div><br></div><div>{{c1::Primary Prevention}}</div><div><br></div><div>{{c2::Safety net programs and secondary prevention}}</div><div><br></div><div>{{c3::Acute medical care and tertiary prevention}}</div>",
+                        "<img src=\"paste-4347877464b287d74bd8cba2b9a78834842ab6ec.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "t>%C6q+s3#",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Three methods of prevention<div><br></div><div>{{c1::Primary Prevention}}</div><div><br></div><div>{{c1::Safety net programs and secondary prevention}}</div><div><br></div><div>{{c1::Acute medical care and tertiary prevention}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "h4M{>nEO))",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "How do disparities arise?<div><br></div><div><div>Differences in the {{c1::<i>quality of care</i>}} received within the health care system</div> <div><br></div> <div>Differences in {{c2::access&nbsp;to health care}}, including <u>preventive</u> and <u>curative</u> services</div> <div><br></div> <div>Differences in {{c3::life opportunities}}, {{c3::exposures}}, and {{c3::stresses}} that result in differences in underlying health status</div></div>",
+                        "<img src=\"paste-43201cc4ce71ebec24ea96b3697dddc2a922a5c2.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "NH/(2zIbL%",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is <b>racism</b>?<div><br></div><div>A system of structuring {{c1::<i>opportunity</i>}} and assigning {{c2::<i>value</i>}} based on the social interpretation of how one looks (which is what we call \"race\")</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "bCB,[h.iU",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Effecs of <b>rasicm</b><div><br></div><div>1. {{c1::<u>Unfairly</u> <i>disadvantes</i>}} some individuals and communities</div><div>2. {{c2::<u>Unfairly</u> <i>advantages</i>}} other individuals and communities</div><div>3. Saps the strength of the whole society through the waste of {{c3::<i>human resources</i>}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "hX?BNxT17Y",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Levels of Racism</b><div><b><br></b></div><div>{{c1::<i>Institutionalized</i>}}</div><div>{{c1::<i>Personally-mediated</i>}}</div><div>{{c1::<i>Internalized</i>}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "j|8CbHhx7e",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div><b>Institutionalized Racism</b></div><div><br></div>Differential access to the goods, services, and opportunities of {{c1::<i>society</i>}}, by “race”",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "D9O[rBe58)",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce858b1c-50b4-11e9-b9be-784f4362f259",
+            "deck_config_uuid": "f160b4e8-49c0-11e9-abe2-acde48001122",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "paste-b9a1d2fa09faf9163a2079fd505d612908c8c71f.jpg",
+                "paste-5cda39d485ffca534190f9e06c7b288fdb7e335e.jpg",
+                "paste-6688cd62e95698b1c2851145d20fa2ed0330e7df.jpg",
+                "paste-18590e8b83781b93176acc2d2b042eb2a39f494c.jpg",
+                "paste-9e4c2f5355dc2cd7f400cf84e9a976c65155d2fd.jpg",
+                "paste-72f6cd6286667ef0012fe7fcd93dd3fbf54dc49c.jpg",
+                "paste-9987c4c4424430b41a101669e6ab5d7f9f002ddc.jpg",
+                "paste-49b3373285ee68a9bc9d47837921d53517adbadc.jpg",
+                "paste-ac73e7ec15bcca2ee9437bda31aaa5f2e22876de.jpg",
+                "paste-f8ee29b33d28e52d2bed2a56494419da146e5ba3.jpg",
+                "paste-6da8a175883efea08f8ad68a5c2882202996cfbd.jpg"
+            ],
+            "name": "06 - Obesisty",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Adult Obesity</b><br><div><br></div><div>BMI = {{c1::weight / height^2}}</div><div><br></div><div>Underweight: {{c1::&lt; 18.5}}</div><div>Normal: {{c1::18.5 - 24.9}}</div><div>Overweight: {{c1::25 - 29.9}}</div><div>Obese: {{c1::≥ 30}}</div><div><br></div><div>Obese Class 1: {{c2::30 - 34.9}}</div><div>Obese Class 2: {{c2::35 - 39.9}}</div><div>Obese Class 3: {{c2::≥ 40}}</div>",
+                        "<img src=\"paste-72f6cd6286667ef0012fe7fcd93dd3fbf54dc49c.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "f:VYVyDqT@",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Pediatric Obesity</b><div><b><br></b></div><div>Pediatric obesity is calculated as a {{c1::<i>percentile</i>}} to account for the normal differences in {{c2::<i>body fat</i>}} between boys and girls at different ages</div>",
+                        "<img src=\"paste-9987c4c4424430b41a101669e6ab5d7f9f002ddc.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "seemqI:M@.",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "As children are growing the <u>measurments</u> used to track their <i>growth</i> are different<div><br></div><div>There are two different growth charts: one from the <i>WHO</i> and the <i>CDC</i></div><div><br></div><div>{{c1::<i>WHO</i>}}: for youth {{c2::0 - 2}} years old</div><div>{{c1::<i>CDC</i>}}: for youth {{c2::2 - 19}} years old</div>",
+                        "<img src=\"paste-b9a1d2fa09faf9163a2079fd505d612908c8c71f.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "K;vn`Q,cjb",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Globablly, {{c1::Mexico}} and the {{c1::US}} are the two leading countries of <b>obesity</b>",
+                        "<img src=\"paste-6da8a175883efea08f8ad68a5c2882202996cfbd.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "MTG/+f5kB4",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Obesity</b> disproportionately affects <i>genders </i>and <i>races</i>. Currently obesity affects {{c1::<i>hispanic boys</i>}} and {{c1::<i>non-hispanic black girls</i>}}",
+                        "<img src=\"paste-5cda39d485ffca534190f9e06c7b288fdb7e335e.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "wl_,PdRWc^",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Physical consequences of obesity:<div><br></div><div>{{c1::Mortality}}</div><div>{{c2::Cardiovascular disease}}</div><div>{{c3::Cancer}}<br></div><div><br></div><div>{{c4::Hypertension}}</div><div>{{c5::Osteoarthritis}}<br></div><div>{{c6::Lipid diease}}<br></div><div>{{c7::Type 2 Diabetes}}</div><div><br></div><div>{{c8::Sleep apnea}}</div><div>{{c9::Gallbladder disease}}</div><div>{{c10::Stroke}}</div>",
+                        "<div>MCC HOLD SGS&nbsp;<br></div><img src=\"paste-f8ee29b33d28e52d2bed2a56494419da146e5ba3.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "A1++|]gRlO",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Physical consequences of obesity:<div><br></div><div>{{c1::Mortality}}</div><div>{{c1::Cardiovascular disease}}</div><div>{{c1::Cancer}}<br></div><div><br></div><div>{{c1::Hypertension}}</div><div>{{c1::Osteoarthritis}}<br></div><div>{{c1::Lipid diease}}<br></div><div>{{c1::Type 2 Diabetes}}</div><div><br></div><div>{{c1::Sleep apnea}}</div><div>{{c1::Gallbladder disease}}</div><div>{{c1::Stroke}}</div>",
+                        "<div>MCC HOLD SGS&nbsp;<br></div><img src=\"paste-f8ee29b33d28e52d2bed2a56494419da146e5ba3.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "O&JZ1qCm;a",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "There are two forms of fat people shape<div><br></div><div>{{c1::Apple}} and {{c1::pear}} shaped fat people</div><div><br></div><div>{{c1::Apple}} shaped fat people are at {{c2::<u>increased</u>::increased/decreased}} risk for <i>chronic disease</i> than {{c1::pear}} shaped fat people</div><div><br></div><div>{{c1::Apple}}-shaped fat people is have more {{c2::<i>viseral</i>}} fat</div><div>{{c1::Pear}}-shaped fat people have more {{c2::<i>subcutaneous</i>}} fat</div>",
+                        "<div><img src=\"paste-9e4c2f5355dc2cd7f400cf84e9a976c65155d2fd.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "g@n!?GlHre",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Psychosocial consequences of obesity<div><br></div><div>{{c1::Anxiety}}</div><div>{{c1::Social isolation}}<br></div><div>{{c1::Despression}}</div><div>{{c1::Acaemic performance (lower)}}<br></div><div>{{c1::Quality of Life (lower)}}</div><div>{{c1::Self-esteem (lower)}}</div>",
+                        "<div>ASDAQS (kind of like NASDAQ)&nbsp;<br></div><img src=\"paste-18590e8b83781b93176acc2d2b042eb2a39f494c.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "p?t<#{m[M^",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Psychosocial consequences of obesity<div><br></div><div>{{c1::Anxiety}}</div><div>{{c2::Social isolation}}<br></div><div>{{c3::Despression}}</div><div>{{c4::Acaemic performance (lower)}}<br></div><div>{{c5::Quality of Life (lower)}}</div><div>{{c6::Self-esteem (lower)}}</div>",
+                        "<div>ASDAQS (kind of like NASDAQ)&nbsp;<br></div><img src=\"paste-18590e8b83781b93176acc2d2b042eb2a39f494c.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "n3Io8))b8N",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Economic consequences of obesity</b><div><b><br></b></div><div>{{c1::<b>Abesneteeism &amp; Presenteeism</b>}} - Obese individuals tend to miss work more, and when they are at work, they are more limited</div><div><br></div><div>{{c1::<b>Direct and indirect medical costs</b>}} - obesity costs money</div>",
+                        "<img src=\"paste-ac73e7ec15bcca2ee9437bda31aaa5f2e22876de.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "gpV+wH/Yku",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Pediatric Obesity</b><div><b><br></b></div><div>Overweight: {{c1::85 - 95th percentile}}</div><div>Obese: {{c2::≥ 95th percentile}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "fUY.C$kY~j",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Subsystems within the bioecological framework</b><div><b><br></b></div><div>{{c1::The individual}}</div><div>{{c2::Microsystem}}</div><div>{{c3::Mesosystem}}</div><div>{{c4::Exosystem}}</div><div>{{c5::Macrosystem}}</div><div>{{c6::Chronosystem}}</div>",
+                        "<img src=\"paste-6688cd62e95698b1c2851145d20fa2ed0330e7df.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "z@4v^sLo&)",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Subsystems within the bioecological framework</b><div><b><br></b></div><div>{{c1::The individual}}</div><div>{{c1::Microsystem}}</div><div>{{c1::Mesosystem}}</div><div>{{c1::Exosystem}}</div><div>{{c1::Macrosystem}}</div><div>{{c1::Chronosystem}}</div>",
+                        "<img src=\"paste-6688cd62e95698b1c2851145d20fa2ed0330e7df.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "LG-vV^=YxO",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>The bioecological framework</b><div><b><br></b></div><div>The {{c1::<i>microsystem</i>}} is anything that directly influences the individual</div><div><br></div><div>examples are:</div><div>School, Family, church group</div>",
+                        "<img src=\"paste-6688cd62e95698b1c2851145d20fa2ed0330e7df.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "L(>jyRi^dj",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>The bioecological framework</b><div><b><br></b></div><div>The {{c1::<i>mesosystem</i>}} is the interaction of microsystems</div><div><br></div><div>examples are:</div><div>how school experiences are related to family experiences</div>",
+                        "<img src=\"paste-6688cd62e95698b1c2851145d20fa2ed0330e7df.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "Lqkt`{.?nL",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>The bioecological framework</b><div><b><br></b></div><div>The {{c1::<i>exosystem</i>}} is things that indirectly affect the individual</div><div><br></div><div>examples are:</div><div>Mother gets a raise at work, increased travel causes marital strain</div>",
+                        "<img src=\"paste-6688cd62e95698b1c2851145d20fa2ed0330e7df.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "E8aT{:5<#,",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Maternal vs Paternal Associations with child height and weight</b><div><b><br></b></div><div>Both {{c1::<i>maternal</i>}} and {{c1::<i>paternal</i>}} lines are associated with {{c2::<u>height</u>}}, but only the {{c1::<i>maternal</i>}} line is associated with {{c2::<u>BMI</u>}}</div>",
+                        "<img src=\"paste-6688cd62e95698b1c2851145d20fa2ed0330e7df.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "MD0]^J}2ly",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>The Developmental cascade model of paediatric obesity</b><div><b><br></b></div><div>Has 4 stages:</div><div><br></div><div>{{c1::Prenatal-infant}} stage</div><div>{{c2::Toddler-Preschooler}} stage</div><div>{{c3::School-age child}} stage</div><div>{{c4::Adolescent-Teenager}} stage</div>",
+                        "<img src=\"paste-49b3373285ee68a9bc9d47837921d53517adbadc.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "hYA[&@Sgr`",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>The Developmental cascade model of paediatric obesity</b><div><b><br></b></div><div>Has 4 stages:</div><div><br></div><div>{{c1::Prenatal-infant}} stage</div><div>{{c1::Toddler-Preschooler}} stage</div><div>{{c1::School-age child}} stage</div><div>{{c1::Adolescent-Teenager}} stage</div>",
+                        "<img src=\"paste-49b3373285ee68a9bc9d47837921d53517adbadc.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "NgA1MlY4;-",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Prenatal-infant stage</b><div><b><br></b></div><div>This stage is very dependant on {{c1::<i>maternal</i>}} health</div>",
+                        "<img src=\"paste-49b3373285ee68a9bc9d47837921d53517adbadc.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "xVRozq}O8_",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Toddler-Preschooler stage</b><div><b><br></b></div><div>Children in this stage experience a {{c1::<i>adiposity rebound</i>}}.&nbsp;</div><div><br></div><div>In early development, the average {{c2::<i>BMI</i>}} dips and then rebounds.</div><div><br></div><div>If a child dips and rebounds {{c3::<u>earlier</u>::earlier/later}}, they are at an {{c4::increased::increased/decreased}} risk for obesity</div>",
+                        "<img src=\"paste-49b3373285ee68a9bc9d47837921d53517adbadc.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "mJ=CW!hgA-",
+                    "note_model_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce873980-50b4-11e9-a4d8-784f4362f259",
+            "deck_config_uuid": "f160b4e8-49c0-11e9-abe2-acde48001122",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "04 - Service Learning Program",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce88a7fa-50b4-11e9-8ae8-784f4362f259",
+            "deck_config_uuid": "f160b4e8-49c0-11e9-abe2-acde48001122",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "05 - Summer Research",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce8a3590-50b4-11e9-a45e-784f4362f259",
+            "deck_config_uuid": "f160b4e8-49c0-11e9-abe2-acde48001122",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "09 - Population Health Program",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce8bb190-50b4-11e9-87d5-784f4362f259",
+            "deck_config_uuid": "f160b4e8-49c0-11e9-abe2-acde48001122",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "10 - Practical Utilization of Pop Health",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce8d32cc-50b4-11e9-87fa-784f4362f259",
+            "deck_config_uuid": "f160b4e8-49c0-11e9-abe2-acde48001122",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "11 - Clear & Accurate Writeup",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce8eab34-50b4-11e9-9ee6-784f4362f259",
+            "deck_config_uuid": "f160b4e8-49c0-11e9-abe2-acde48001122",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "12 - Public Health in Practice",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce902dcc-50b4-11e9-b7d6-784f4362f259",
+            "deck_config_uuid": "f160b4e8-49c0-11e9-abe2-acde48001122",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "13 - Introduction to Prevention Science",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce91c012-50b4-11e9-ac08-784f4362f259",
+            "deck_config_uuid": "f160b4e8-49c0-11e9-abe2-acde48001122",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "14 - Global Health",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce932c74-50b4-11e9-9bcb-784f4362f259",
+            "deck_config_uuid": "f160b4e8-49c0-11e9-abe2-acde48001122",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "15 - How Research Informs Clinical medicine",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce94b2d8-50b4-11e9-835e-784f4362f259",
+            "deck_config_uuid": "f160b4e8-49c0-11e9-abe2-acde48001122",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "16 - UChart",
+            "notes": []
+        }
+    ],
+    "crowdanki_uuid": "ce5f2d8c-50b4-11e9-b14d-784f4362f259",
+    "deck_config_uuid": "ce7b26d8-50b4-11e9-af9c-784f4362f259",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoAgain": 0,
+            "autoAlert": 0,
+            "autoAnswer": 0,
+            "autoplay": true,
+            "crowdanki_uuid": "ce7b26d8-50b4-11e9-af9c-784f4362f259",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    15
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Doctoring",
+            "new": {
+                "LBEIMinAfter": 4,
+                "LBEIMinBefore": 4,
+                "LBGIMinAfter": 1,
+                "LBGIMinBefore": 1,
+                "bury": false,
+                "delays": [
+                    3,
+                    15
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 5,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 90,
+                "minSpace": 1,
+                "perDay": 15
+            },
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoAgain": 0,
+            "autoAlert": 0,
+            "autoAnswer": 0,
+            "autoplay": true,
+            "crowdanki_uuid": "f160b4e8-49c0-11e9-abe2-acde48001122",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    15
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "LBEIMinAfter": 4,
+                "LBEIMinBefore": 4,
+                "LBGIMinAfter": 1,
+                "LBGIMinBefore": 1,
+                "bury": false,
+                "delays": [
+                    3,
+                    15
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 9999,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 90,
+                "minSpace": 1,
+                "perDay": 9999
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "name": "Doctoring II",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f1642a12-49c0-11e9-bb0a-acde48001122",
+            "css": ".card {\n\tfont-family: Menlo, Regular, sans;\n\tfont-size: 16px;\n\ttext-align: center;\n\tcolor: #D7DEE9;\n\tbackground-color: #272822;\n}\n\n#kard {\n\tpadding: 0px 0px;\n\tmax-width: 700px;\n\tmargin: 0 auto;\n\tword-wrap: break-word;\n\tcolor: #D7DEE9;\n\tbackground-color: #272822;\n}\n\n.cloze {\n\tfont-weight: bold;\n\tcolor: MediumSeaGreen !important;\n}\n\n#extra, #extra i {\n\tfont-size: 15px;\n\tcolor: #D7DEE9.\n}\n\n.tags { \n    color: #A6ABB9;\n    opacity: 0;\n    font-size: 10px; \n    width: 100%;\n    text-align: center;\n    text-transform: uppercase; \n    position: fixed; \n    padding: 0; \n    top:0;  \n    right: 0;}\n.tags:hover { opacity: 1; position: fixed;}\n\n/* IMAGE STYLE */\nimg { display: block; max-width: 100%; max-height: none; margin-left: auto; margin: 10px auto 10px auto;}\nimg:active { width: 100%; }\ntr {font-size: 12px; }\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb { color: #F92672; !important; } /* BOLD STYLE */\nu { text-decoration: none; color: #FD971F;} /* UNDERLINE STYLE */\ni  { color: #66D9EF; } /* ITALICS STYLE */\n.cloze i\n{\n\tfont-weight: bold;\n\tcolor: MediumSeaGreen !important;\n}\n.cloze b\n{\n\tfont-weight: bold;\n\tcolor: MediumSeaGreen !important;\n}\n.cloze u\n{\n\tfont-weight: bold;\n\tcolor: MediumSeaGreen !important;\n}\n\n/* ADJUSTMENT FOR MOBILE DEVICES */\n.mobile .card { color: black; background-color: #D7DEE9; font-size: 20px} \n.modile #kard { color: #D7DEE9; }\n.mobile .tags:hover { opacity: 1; position: relative;}\n.mobile .card img:active { width: inherit; max-height: none;}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}",
+            "latexsvg": false,
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "<div id=\"kard\">\n\t<div class=\"tags\" id=\"tags\">{{Tags}}</div>\n\t{{cloze:Text}}\n\t<hr/>\n\t<div id='extra'>{{Extra}}</div>\n</div>",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "<div id=\"kard\">\n\t<div class=\"tags\">{{Tags}}</div>\n\t{{cloze:Text}}\n</div>\n"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f1649418-49c0-11e9-ae9f-acde48001122",
+            "css": ".card {\n font-family:Arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color:#F2F6FF;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n\n.card:after {\n    content: \"\";\n    background: url(Logo.png);\n    background-size: 80px;\n    background-position: right bottom;\n    background-repeat: no-repeat;\n    background-color: ;\n    opacity: 0.7;\n    top: 0;\n    left: 0;\n    bottom: 0;\n    right: 0;\n    position: absolute;\n    z-index: -1;     \n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-1aa53",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": []
+}
